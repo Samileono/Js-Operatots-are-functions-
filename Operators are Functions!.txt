@@ -1,0 +1,11 @@
+In javascript, operators ( any type of operators ) are just functions which returns one value! Well, not normally they are same as functions that we are using usually.
+These types of functions are written in infix notation. Which literally means that function name we will sit in between two parameters that you had passed  to that function.
+
+let me visualize you how infix notation is: parameter function_name parameters
+
+lets say we are using arithmetic operator ( + ) or add function here what it is written
+
+var a = 4 + 5; // here + is add function which is taking 4, 5 as an arguments.
+
+well, it would really overwhelming if you use + as an function like we do normally i.e +(4, 5). The infix notation is quite human
+readable and its easy to write in your program! 
